@@ -138,14 +138,6 @@ The platform can integrate with:
 
 ---
 
-## 🛡 Privacy & Ethics
-- User data protection
-- Transparent issue handling
-- Anti-spam reporting filters
-- Community moderation support
-
----
-
 ## 🖥 Prototype Screens Included
 - Splash & Onboarding
 - Login & Access
@@ -156,6 +148,23 @@ The platform can integrate with:
 - Volunteer Section
 - Rewards & Recognition
 - Accessibility Mode
+
+---
+
+## 🔗 Live Prototype
+https://www.figma.com/make/D27Cmza1qzFqH1Mimlejmp/Community-Reporting-App?fullscreen=1&t=VPlgo5LMa8GWpHOM-1
+
+---
+
+## 🎥 Demo Video
+https://drive.google.com/file/d/1fA20D0KNUxu4cl-ZZRLn4LQIEIYiesaF/view?usp=sharing
+---
+
+## 🛡 Privacy & Ethics
+- User data protection
+- Transparent issue handling
+- Anti-spam reporting filters
+- Community moderation support
 
 ---
 
